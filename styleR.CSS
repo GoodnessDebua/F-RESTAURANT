@@ -1,0 +1,329 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    flex-direction: row;
+    color: red;
+
+}
+
+.nav-bar .container-fluid{
+    display: flex;
+    flex-direction: row;
+    color: none;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+
+.navbar-brand{
+    font-size: 20px;
+    color: rgba(1, 48, 1, 0.836);
+    margin: 20px 0 0 0;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+} 
+
+.title{
+    display: flex;
+}
+
+.collapse.nav-collapse{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.nav-link{
+    text-decoration: none;
+    display: flex;
+    color: rgb(14,21,14);
+    padding: 10px 20px;
+}
+
+.lists{
+    margin: 20px 0 0 22rem;
+}
+
+
+.btn{
+    /* width: 100px;
+    padding: 10px; */
+    border: none;
+    background-color: #f4f3e7
+}
+
+
+.hero h4{
+    /* font-weight: 250px; */
+    color: white;
+    font-size: 60px;
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hero p{
+    font-size: 20px;
+    /* padding: 0 0 150px 0; */
+    color: white;
+    
+}
+
+.img{
+    border-radius: 35px;
+    height: 680px;
+    width: 600px;
+    margin: 30px 0 0 30px;
+}
+
+.spn h4{
+   margin: -15px 0 0 0;
+   font-size: 60px;
+   font-weight: 800;
+}
+
+.fed{
+    padding: 80px 0 0 70px;
+}
+
+.secondBanner{
+    padding: 70px 65px;
+    background-color: #d8e5d6;
+    height: 800px;
+
+}
+
+.mrt{
+    font-size: 15px;
+    margin: 15px 0 0 0;
+}
+
+/* .banner2 {
+    padding: 40px 0 0 0px;
+} */
+
+.banner2 h1{
+    margin: 50px 0 0 0;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.banner2 p{
+    font-size: 20px;
+}
+
+.fan{
+    margin: 180px 0 0 0;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+}
+
+.col-lg-12{
+    margin: 0 0 0 40px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.side{
+    color: grey;
+    margin: 20px
+     80px 0 0;
+}
+
+
+.jin{
+    margin: 0 0 0;
+
+}
+
+
+.col-lg-4 img{
+    height: 350px;
+    width: 370px;
+    border-radius: 10px;
+}
+
+.price{
+    font-size: 13px;
+}
+
+.perks{
+    background-color:rgb(169, 193, 169);
+    /* padding: 30px 40px; */
+    font-size: 15px;
+    
+}
+
+.app{
+    font-size: 15px;
+}
+
+.join{
+    font-size: 55px;
+    /* margin: 10px 0 20px 0; */
+}
+
+.phon{
+    padding: 0 3px 0 0;
+}
+
+.abt{
+    font-size: 20px;
+    margin: 0 0 10px 0;
+}
+
+.ios{
+    font-size: 25px;
+    color: black;
+    margin: 20px 0 0 0;
+}
+
+.roid{
+    font-size: 25px;
+    margin: 20px 0 0 0;
+    color: black;
+}
+
+
+.cashew{
+    width: 665px;
+    height: 479.55px;
+}
+
+.ash{
+    background-color: #e8dcc6;
+    /* padding: 0 0 0 30px; */
+    /* margin: 0 0 0 30px; */
+
+}
+
+.lab{
+    font-size: 15px;
+    margin: 0 0 0 30px;
+}
+
+
+.kitch{
+    font-size: 65px;
+    margin: 0 0 0 30px;
+}
+
+.p{
+    font-size: 25px;
+    margin: 0 0 0 30px;
+}
+
+.footer{
+    background-color: #d8e5d6;
+    padding: 30px 0 0 0;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0 0 0 20px; */
+    list-style: none;
+    /* align-items: flex-start; */
+}
+
+.UL1{
+    font-size: 15px;
+    list-style: none;
+    margin: 20px 0 0 0;
+}
+
+.UL2{
+    font-size: 15px;
+    list-style: none;
+    margin: 20px 0 0 0;
+}
+
+.UL3{
+    font-size: 15px;
+    list-style: none;
+    margin: 20px 0 0 0;
+}
+
+.UL4{
+    font-size: 15px;
+    list-style: none;
+    margin: 20px 0 0 0;
+}
+
+.spn1{
+    margin: 0 0 0 50px;
+}
+
+.h3A{
+    font-size: 15px;
+    margin: 0 0 0 30px;
+    /* padding: 30px 0 0 0; */
+}
+
+.h3S{
+    font-size: 15px;
+    margin: 0 0 0 30px;
+}
+
+.h3U{
+    font-size: 15px;
+    margin: 0 0 0 30px;
+}
+
+.h3L{
+    font-size: 15px;
+    margin: 0 0 0 30px;
+}
+
+.SM{
+    /* display: flex; */
+    /* border-radius: 40px; */
+    /* height: 30px; */
+    /* width: 45px; */
+    margin: 0 250px 0 200px;
+    /* padding: 30px 80px;  */
+ }
+
+.IG{
+    border-radius: 50px;
+    height: 50px;
+    width: 70px;
+    /* padding: 0 20px; */
+}
+
+.TIK{
+    border-radius: 50px;
+    height: 50px;
+    width: 70px;
+    /* padding: 0 20px; */
+}
+
+.FB{
+    border-radius: 50px;
+    height: 50px;
+    width: 70px;
+    /* padding: 0 20px; */
+} 
+
+@media screen and (max-width: 600px) {
+
+    .hero{
+        background-image: url(SG_Web_Steak_Plate_Desktop.avif);
+        background-repeat: no-repeat;
+        background-size: 100% ;
+        height: 900px;
+        color: #d9d9d5;
+    }
+
+}
